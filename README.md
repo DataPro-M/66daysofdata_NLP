@@ -26,6 +26,6 @@ How we can scrap data from webpages using the Beautiful Soup.
 - extracting a question and its best-answer pair from a Stack Overflow web page
 ### Screenshots
 
-![App Screenshot](https://github.com/DataPro-M/66daysofdata_NLP/blob/main/images/Day01.png)
+![App Screenshot](images/Day01.png)
 
   
