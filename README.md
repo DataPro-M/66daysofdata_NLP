@@ -17,14 +17,14 @@ Journey of 66DaysofData in Natural Language Processing
 
 How we can scrap data from webpages using the Beautiful Soup.
 
-  [Day 01 of 66daydata](https://github.com/DataPro-M/66daysofdata_NLP/tree/main/day01)
-### Lessons Learned
+  [Day 01 of 66daydata](day01)
+#### Lessons Learned
 
 
 - reading a html page (Stack Overflow) and parsing and storing it in __Beautiful Soup__ format
 - find the nevessary tags and class which it belongs to "question" and "andsers"
 - extracting a question and its best-answer pair from a Stack Overflow web page
-### Screenshots
+#### Screenshots
 
 ![App Screenshot](images/Day01.png)
 
