@@ -12,7 +12,10 @@ Journey of 66DaysofData in Natural Language Processing
  - [Transformers for Natural Language Processing](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791)
  - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 
-  
+## Sites
+
+ - [pythonprogramming.net](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
+ 
 ## Day 1 of 66daydata
 
 How we can scrap data from webpages using the Beautiful Soup.
@@ -26,6 +29,22 @@ How we can scrap data from webpages using the Beautiful Soup.
 - extracting a question and its best-answer pair from a Stack Overflow web page
 #### Screenshots
 
-![App Screenshot](images/Day01.png)
+![App Screenshot](images/Day_01.png)
+
+## Day 2 of 66daydata
+
+Getting started with NLTK.
+
+  [Day 02 of 66daydata](day02)
+#### Lessons Learned
+
+
+- 01. Tokenizing Words and Sentences with NLTK
+- 02. Removing Stop words with NLTK
+- 03. Stemming words with NLTK
+
+#### Screenshots
+
+![App Screenshot](images/Day_02.png)
 
   
