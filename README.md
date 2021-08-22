@@ -33,15 +33,15 @@ How we can scrap data from webpages using the Beautiful Soup.
 
 ## Day 2 of 66daydata
 
-Getting started with NLTK.
+Getting started with `NLTK`.
 
   [Day 02 of 66daydata](day02)
 #### Lessons Learned
 
 
-- 01. Tokenizing Words and Sentences with NLTK
-- 02. Removing Stop words with NLTK
-- 03. Stemming words with NLTK
+- **Tokenizing** Words and Sentences with NLTK
+- Removing **Stop words** with NLTK
+- **Stemming** words with NLTK
 
 #### Screenshots
 
