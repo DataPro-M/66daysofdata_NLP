@@ -49,3 +49,18 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_02.png)
 
   
+## Day 3 of 66daydata
+
+`NLTK`: part 2.
+
+  [Day 03 of 66daydata](day03)
+#### Lessons Learned
+
+
+- **Part of Speech Tagging** with NLTK
+- **Chunking** and **Chinking** with NLTK
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_03.png)
