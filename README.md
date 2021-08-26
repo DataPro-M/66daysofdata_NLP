@@ -42,6 +42,7 @@ Getting started with `NLTK`.
 - **Tokenizing** Words and Sentences with NLTK
 - Removing **Stop words** with NLTK
 - **Stemming** words with NLTK
+- **Lemmatization** words with NLTK
 
 #### Screenshots
 
