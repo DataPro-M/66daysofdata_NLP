@@ -65,9 +65,9 @@ Getting started with `NLTK`.
 
 ![App Screenshot](images/Day_03.png)
 
-## Day 3 of 66daydata
+## Day 4 of 66daydata
 
-`NLTK`: part 2.
+`NLTK`: part 3.
 
   [Day 04 of 66daydata](day04)
 #### Lessons Learned
