@@ -64,3 +64,21 @@ Getting started with `NLTK`.
 #### Screenshots
 
 ![App Screenshot](images/Day_03.png)
+
+## Day 3 of 66daydata
+
+`NLTK`: part 2.
+
+  [Day 04 of 66daydata](day04)
+#### Lessons Learned
+
+
+- **Named Entity Recognition** with NLTK
+- **Text Classification** 
+- Converting **words to Features** 
+- `Naive Bayes Classifier` with NLTK
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_04.png)
