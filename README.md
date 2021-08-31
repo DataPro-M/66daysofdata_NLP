@@ -97,7 +97,7 @@ Getting started with `NLTK`.
 
 #### Screenshots
 
-![App Screenshot](images/Day_03.png)
+![App Screenshot](images/Day_05.png)
 
 ## Day 6 of 66daydata
 
