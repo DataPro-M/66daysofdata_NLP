@@ -82,3 +82,35 @@ Getting started with `NLTK`.
 #### Screenshots
 
 ![App Screenshot](images/Day_04.png)
+
+## Day 5 of 66daydata
+
+`NLTK`: part 4.
+
+  [Day 05 of 66daydata](day05)
+#### Lessons Learned
+
+
+- Classifiying movie_reviews with Scikit-Learn Sklearn anf NLTK
+- get model accuracy with **cross validation**
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_03.png)
+
+## Day 6 of 66daydata
+
+`NLTK`: part 5.
+
+  [Day 06 of 66daydata](day06)
+#### Lessons Learned
+
+
+- **Combining Algorithms (classifiers)** with NLTK
+- Sklearn + NLTK VoteClassifier
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_06.png)
