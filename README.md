@@ -91,7 +91,7 @@ Getting started with `NLTK`.
 #### Lessons Learned
 
 
-- Classifiying movie_reviews with Scikit-Learn Sklearn anf NLTK
+- Classifiying movie_reviews with Scikit-Learn Sklearn and NLTK
 - get model accuracy with **cross validation**
 
 
