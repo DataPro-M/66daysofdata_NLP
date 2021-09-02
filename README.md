@@ -3,7 +3,7 @@
 
 Journey of 66DaysofData in Natural Language Processing
 
-Please refer to [Ken Jee's #66DaysOfData Challenge](https://www.kennethjee.com/66daysofdata) for more info
+Please refer to [Ken Jee's #66DaysOfData Challenge](https://www.kennethjee.com/66daysofdata) for more info!
 
 ![Logo](https://www.blumeglobal.com/wp-content/uploads/2018/11/NLP-image.jpg)
 
@@ -17,11 +17,11 @@ Please refer to [Ken Jee's #66DaysOfData Challenge](https://www.kennethjee.com/6
 
  - [pythonprogramming.net](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
  
-## Day 1 of 66daydata
+## Day 1 of #66DaysOfData
 
 How we can scrap data from webpages using the Beautiful Soup.
 
-  [Day 01 of 66daydata](day01)
+  [Day 01 of #66DaysOfData](day01)
 #### Lessons Learned
 
 
@@ -32,11 +32,11 @@ How we can scrap data from webpages using the Beautiful Soup.
 
 ![App Screenshot](images/Day_01.png)
 
-## Day 2 of 66daydata
+## Day 2 of #66DaysOfData
 
 Getting started with `NLTK`.
 
-  [Day 02 of 66daydata](day02)
+  [Day 02 of #66DaysOfData](day02)
 #### Lessons Learned
 
 
@@ -50,11 +50,11 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_02.png)
 
   
-## Day 3 of 66daydata
+## Day 3 of #66DaysOfData
 
 `NLTK`: part 2.
 
-  [Day 03 of 66daydata](day03)
+  [Day 03 of #66DaysOfData](day03)
 #### Lessons Learned
 
 
@@ -66,11 +66,11 @@ Getting started with `NLTK`.
 
 ![App Screenshot](images/Day_03.png)
 
-## Day 4 of 66daydata
+## Day 4 of #66DaysOfData
 
 `NLTK`: part 3.
 
-  [Day 04 of 66daydata](day04)
+  [Day 04 of #66DaysOfData](day04)
 #### Lessons Learned
 
 
@@ -84,15 +84,15 @@ Getting started with `NLTK`.
 
 ![App Screenshot](images/Day_04.png)
 
-## Day 5 of 66daydata
+## Day 5 of #66DaysOfData
 
 `NLTK`: part 4.
 
-  [Day 05 of 66daydata](day05)
+  [Day 05 of #66DaysOfData](day05)
 #### Lessons Learned
 
 
-- Classifiying movie_reviews with Scikit-Learn Sklearn and NLTK
+- Classifying movie_reviews with Scikit-Learn Sklearn and NLTK
 - get model accuracy with **cross validation**
 
 
@@ -100,11 +100,11 @@ Getting started with `NLTK`.
 
 ![App Screenshot](images/Day_05.png)
 
-## Day 6 of 66daydata
+## Day 6 of #66DaysOfData
 
 `NLTK`: part 5.
 
-  [Day 06 of 66daydata](day06)
+  [Day 06 of #66DaysOfData](day06)
 #### Lessons Learned
 
 
@@ -115,3 +115,19 @@ Getting started with `NLTK`.
 #### Screenshots
 
 ![App Screenshot](images/Day_06.png)
+
+## Day 7 of #66DaysOfData
+
+`NLTK`: part 6.
+
+  [Day 07 of #66DaysOfData](day07)
+#### Lessons Learned
+
+
+- saving and loading 'document' and 'word features'
+- New movie review data was used and processed
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_07.png)
