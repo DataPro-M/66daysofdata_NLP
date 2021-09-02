@@ -3,6 +3,7 @@
 
 Journey of 66DaysofData in Natural Language Processing
 
+Please refer to [Ken Jee's #66DaysOfData Challenge](https://www.kennethjee.com/66daysofdata) for more info
 
 ![Logo](https://www.blumeglobal.com/wp-content/uploads/2018/11/NLP-image.jpg)
 
