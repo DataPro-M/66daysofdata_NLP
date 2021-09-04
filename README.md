@@ -131,3 +131,19 @@ Getting started with `NLTK`.
 #### Screenshots
 
 ![App Screenshot](images/Day_07.png)
+
+## Day 8 of #66DaysOfData
+
+`NLTK`: part 7.
+
+  [Day 08 of #66DaysOfData](day08)
+#### Lessons Learned
+
+
+- NER with NLTK `Stanford NER tagger`.
+- Testing NLTK and Stanford NER Taggers for Accuracy
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_08.png)
