@@ -147,3 +147,6 @@ Getting started with `NLTK`.
 #### Screenshots
 
 ![App Screenshot](images/Day_08.png)
+
+[dataset](https://github.com/PinkyBlond/R-Machine-Learning/raw/master/News_Final.csv)
+[word2vec-to-analyze-news-headlines](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
