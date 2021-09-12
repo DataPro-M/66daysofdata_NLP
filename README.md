@@ -150,3 +150,52 @@ Getting started with `NLTK`.
 
 [dataset](https://github.com/PinkyBlond/R-Machine-Learning/raw/master/News_Final.csv)
 [word2vec-to-analyze-news-headlines](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
+
+## Day 9 of #66DaysOfData
+
+`word2vec`
+
+  [Day 09 of #66DaysOfData](day09)
+#### Lessons Learned
+
+
+- word2vec with gensim
+- kaggle data set
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_09.png)
+
+[Kaggle Data set: Car Features and MSRP](https://www.kaggle.com/CooperUnion/cardataset) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
