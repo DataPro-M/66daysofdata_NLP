@@ -133,3 +133,4 @@ dmypy.json
 
 # ignore directories
 other_data/
+datasets/
