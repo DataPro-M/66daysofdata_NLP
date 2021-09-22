@@ -169,6 +169,25 @@ Getting started with `NLTK`.
 
 [Kaggle Data set: Car Features and MSRP](https://www.kaggle.com/CooperUnion/cardataset) 
 
+## Day 9 of #66DaysOfData
+
+`word2vec`
+
+  [Day 10-11 of #66DaysOfData](day10-11)
+#### Lessons Learned
+
+
+- working with kaggle data set
+- word2vec
+- tensorflow LSTM model
+- tensorflow embeding layer
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_10-11.png)
+
+
 
 
 
