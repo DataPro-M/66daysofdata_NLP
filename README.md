@@ -169,9 +169,9 @@ Getting started with `NLTK`.
 
 [Kaggle Data set: Car Features and MSRP](https://www.kaggle.com/CooperUnion/cardataset) 
 
-## Day 9 of #66DaysOfData
+## Day 10-11 of #66DaysOfData
 
-`word2vec`
+`LSTM Classification model with Word2Vec`  
 
   [Day 10-11 of #66DaysOfData](day10-11)
 #### Lessons Learned
