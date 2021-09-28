@@ -169,11 +169,11 @@ Getting started with `NLTK`.
 
 [Kaggle Data set: Car Features and MSRP](https://www.kaggle.com/CooperUnion/cardataset) 
 
-## Day 10-11 of #66DaysOfData
+## Days 10-11 of #66DaysOfData
 
 `LSTM Classification model with Word2Vec`  
 
-  [Day 10-11 of #66DaysOfData](day10-11)
+  [Days 10-11 of #66DaysOfData](day10-11)
 #### Lessons Learned
 
 
@@ -185,10 +185,25 @@ Getting started with `NLTK`.
 
 #### Screenshots
 
-![App Screenshot](images/Day_10-11.png)
+![App Screenshot](images/Days_10-11.png)
 
 
+## Days 12-13 of #66DaysOfData
 
+`TF-IDF`  
+
+  [Days 12-13 of #66DaysOfData](day12-13)
+#### Lessons Learned
+
+
+- Setting up TF-IDF with Scikit Learn
+- clustering 22,000 descriptions into 5 categories
+- k-means clustering
+
+
+#### Screenshots
+
+![App Screenshot](images/Days_12-13.png)
 
 
 
