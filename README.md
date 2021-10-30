@@ -315,7 +315,11 @@ Getting started with `NLTK`.
 
 <img  src="images/bert-lda.png" />    
 <a href="https://miro.medium.com/max/2000/1*OKCYnB-JbGq1NDwNSKd5Zw.png">img ref</a>
-<img  src="images/14-19_clus2_bert.png" />
+| | TFIDF  | Bert | LDA-Bert  | Bert-LDA-AutoEencoder |
+|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| |<img  src="images/14-19_clus1_tfidf.png" width="300"/>  | <img  src="images/14-19_clus2_bert.png" width="300"/>  | <img  src="images/14-19_clus3_lda.png" width="300"/> | <img  src="images/14-19_clus4_bert_AEn.png" width="300"/> |
+|__Model Coherence score__ |   0.537|  0.505|   0.553|   0.553|
+|__silhouette_score__ | 0.065  | 0.059  | 0.081 | 0.139 |
 
 
 
