@@ -241,6 +241,43 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_15.png)
 
 
+## Days 16 of #66DaysOfData
+
+`LDA (Latent Dirichlet Allocation)`  
+
+  [Days 16 of #66DaysOfData](day14-19)
+#### Lessons Learned
+
+
+- Topic Coherence score
+- `LDA (Latent Dirichlet Allocation)`  
+- pyLDAvis --> LDA visualizatiom modul
+
+
+#### Screenshots
+
+![App Screenshot](<img  src="images/LDA.png" />)
+![App Screenshot](images/Day_16.png)
+<a href="https://www.youtube.com/watch?v=T05t-SqKArY">ref_1</a>
+
+
+## Days 17 of #66DaysOfData
+
+`BERT sentence embedding`  
+
+  [Days 17 of #66DaysOfData](day14-19)
+#### Lessons Learned
+
+
+- Bert: encode sentences --> vectors
+- Clustering Silhouette score
+
+
+#### Screenshots
+
+![App Screenshot](<img  src="images/14-19_clus2_bert.png" />)
+
+
 
 
 
