@@ -308,7 +308,7 @@ Getting started with `NLTK`.
 #### Lessons Learned
 
 
-- Auto-Encoder as for dimension reduction
+- Auto-Encoder as a dimension reduction technique
 
 
 #### Screenshots
