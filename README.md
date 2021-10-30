@@ -280,6 +280,44 @@ Getting started with `NLTK`.
 <img  src="images/14-19_clus2_bert.png" />
 
 
+## Days 18 of #66DaysOfData
+
+`LDA (Latent Dirichlet Allocation)`  
+
+  [Days 18 of #66DaysOfData](day14-19)
+#### Lessons Learned
+
+
+- BERT + LDA 
+- `Combining LDA_vector and BERT_Vector` 
+- convert corpus --> vector    (using LDA_Model)
+
+
+#### Screenshots
+
+
+![App Screenshot](images/14-19_clus3_lda.png)
+
+
+
+## Days 19 of #66DaysOfData
+
+`BERT + LDA + Auto-encoder`  
+
+  [Days 19 of #66DaysOfData](day14-19)
+#### Lessons Learned
+
+
+- Auto-Encoder as for dimension reduction
+
+
+#### Screenshots
+
+<img  src="images/bert-lda.png" />    
+<a href="https://miro.medium.com/max/2000/1*OKCYnB-JbGq1NDwNSKd5Zw.png">img ref</a>
+<img  src="images/14-19_clus2_bert.png" />
+
+
 
 
 
