@@ -256,9 +256,9 @@ Getting started with `NLTK`.
 
 #### Screenshots
 
-![App Screenshot](<img  src="images/LDA.png" />)
+(<img  src="images/LDA.png" />)<a href="https://www.youtube.com/watch?v=T05t-SqKArY">img ref</a>
 ![App Screenshot](images/Day_16.png)
-<a href="https://www.youtube.com/watch?v=T05t-SqKArY">ref_1</a>
+
 
 
 ## Days 17 of #66DaysOfData
