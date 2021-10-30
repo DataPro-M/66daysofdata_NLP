@@ -221,7 +221,7 @@ Getting started with `NLTK`.
 
 #### Screenshots
 
-![App Screenshot](images/Days_12-13.png)
+![App Screenshot](images/Day_14.png)
 
 
 
