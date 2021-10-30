@@ -206,7 +206,22 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Days_12-13.png)
 
 
+## Days 14 of #66DaysOfData
 
+`Topic Modeling Task`  
+
+  [Days 14of #66DaysOfData](day14-19)
+#### Lessons Learned
+
+
+- [Kaggle steam-reviews-dataset](https://www.kaggle.com/luthfim/steam-reviews-dataset)
+- Preparing the dictionary for typo correction purpose
+- `Exploratory data analysis (EDA)`
+
+
+#### Screenshots
+
+![App Screenshot](images/Days_12-13.png)
 
 
 
