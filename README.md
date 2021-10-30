@@ -256,7 +256,7 @@ Getting started with `NLTK`.
 
 #### Screenshots
 
-(<img  src="images/LDA.png" />)
+<img  src="images/LDA.png" />
 <a href="https://www.youtube.com/watch?v=T05t-SqKArY">img ref1</a>
 <a href="https://www.kdnuggets.com/2019/09/overview-topics-extraction-python-latent-dirichlet-allocation.html">ref2</a>
 ![App Screenshot](images/Day_16.png)
@@ -277,7 +277,7 @@ Getting started with `NLTK`.
 
 #### Screenshots
 
-![App Screenshot](<img  src="images/14-19_clus2_bert.png" />)
+<img  src="images/14-19_clus2_bert.png" />
 
 
 
