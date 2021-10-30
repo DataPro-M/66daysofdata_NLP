@@ -315,6 +315,7 @@ Getting started with `NLTK`.
 
 <img  src="images/bert-lda.png" />    
 <a href="https://miro.medium.com/max/2000/1*OKCYnB-JbGq1NDwNSKd5Zw.png">img ref</a>
+<img  src="images/14-19_clus4_bert_AEn.png" />
 
 | | TFIDF  | Bert | LDA-Bert  | Bert-LDA-AutoEencoder |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
