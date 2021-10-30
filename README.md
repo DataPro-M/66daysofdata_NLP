@@ -206,11 +206,11 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Days_12-13.png)
 
 
-## Days 14 of #66DaysOfData
+## Day 14 of #66DaysOfData
 
 `Topic Modeling Task`  
 
-  [Days 14 of #66DaysOfData](day14-19)
+  [Day 14 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
@@ -224,11 +224,11 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_14.png)
 
 
-## Days 15 of #66DaysOfData
+## Day 15 of #66DaysOfData
 
 `Topic Modeling Task`  
 
-  [Days 15 of #66DaysOfData](day14-19)
+  [Day 15 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
@@ -241,11 +241,11 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_15.png)
 
 
-## Days 16 of #66DaysOfData
+## Day 16 of #66DaysOfData
 
 `LDA (Latent Dirichlet Allocation)`  
 
-  [Days 16 of #66DaysOfData](day14-19)
+  [Day 16 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
@@ -264,11 +264,11 @@ Getting started with `NLTK`.
 
 
 
-## Days 17 of #66DaysOfData
+## Day 17 of #66DaysOfData
 
 `BERT sentence embedding`  
 
-  [Days 17 of #66DaysOfData](day14-19)
+  [Day 17 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
@@ -281,11 +281,11 @@ Getting started with `NLTK`.
 <img  src="images/14-19_clus2_bert.png" />
 
 
-## Days 18 of #66DaysOfData
+## Day 18 of #66DaysOfData
 
 `LDA (Latent Dirichlet Allocation)`  
 
-  [Days 18 of #66DaysOfData](day14-19)
+  [Day 18 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
@@ -301,11 +301,11 @@ Getting started with `NLTK`.
 
 
 
-## Days 19 of #66DaysOfData
+## Day 19 of #66DaysOfData
 
 `BERT + LDA + Auto-encoder`  
 
-  [Days 19 of #66DaysOfData](day14-19)
+  [Day 19 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
