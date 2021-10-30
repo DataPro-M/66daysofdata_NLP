@@ -210,7 +210,7 @@ Getting started with `NLTK`.
 
 `Topic Modeling Task`  
 
-  [Days 14of #66DaysOfData](day14-19)
+  [Days 14 of #66DaysOfData](day14-19)
 #### Lessons Learned
 
 
@@ -224,7 +224,21 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_14.png)
 
 
+## Days 15 of #66DaysOfData
 
+`Topic Modeling Task`  
+
+  [Days 15 of #66DaysOfData](day14-19)
+#### Lessons Learned
+
+
+- turn `tokenized` documents into a `id <-> term dictionary`
+- TF-IDF topic modeling
+
+
+#### Screenshots
+
+![App Screenshot](images/Day_15.png)
 
 
 
