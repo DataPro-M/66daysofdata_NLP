@@ -325,6 +325,23 @@ Getting started with `NLTK`.
 |__silhouette_score__      | 0.065  | 0.059  | 0.081 | 0.139 |
 
 
+## Day 20 of #66DaysOfData
+
+`Title Generation`  
+
+  [Day 20 of #66DaysOfData](day20)
+#### Lessons Learned
+
+
+- Kaggle dataset: [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new) 
+- `Generating sequences using Tokenizer API 
+- LSTM Model for Title Generation
+
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_20.png)
 
 
 
