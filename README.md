@@ -348,7 +348,7 @@ Getting started with `NLTK`.
 
 `Plagiarism-Detection` 
 <div style="text-align:center", >    
-    <img  src="images/plagiarism.png" /> 
+    <img  src="images/plagiarism.png" width='400px'/> 
 </div>
 
   [Day 20 of #66DaysOfData](day21)
