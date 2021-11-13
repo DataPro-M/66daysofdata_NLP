@@ -344,6 +344,29 @@ Getting started with `NLTK`.
 ![App Screenshot](images/Day_20.png)
 
 
+## Day 21 of #66DaysOfData
+
+`Plagiarism-Detection` 
+<div style="text-align:center">    
+    <img  src="../images/plagiarism_1.png" /> 
+</div>
+
+  [Day 20 of #66DaysOfData](day21)
+#### Lessons Learned
+
+
+- Dataset: [A Corpus of Plagiarised Short Answers](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html) 
+- `N-gram Language Model`
+- Heatmap Plagiarism visualization
+
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_21_1.png)
+![App Screenshot](images/Day_21_2.png)
+
+
 
 
 
