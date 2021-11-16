@@ -351,7 +351,7 @@ Getting started with `NLTK`.
     <img  src="images/plagiarism.png" width='400px'/> 
 </div>
 
-  [Day 20 of #66DaysOfData](day21)
+  [Day 21 of #66DaysOfData](day21)
 #### Lessons Learned
 
 
@@ -365,6 +365,24 @@ Getting started with `NLTK`.
 
 ![App Screenshot](images/Day_21_1.png)
 ![App Screenshot](images/Day_21_2.png)
+
+## Day 21 of #66DaysOfData
+
+`Plagiarism-Detection` 
+`Containment score`: the n-gram similarity score
+<div style="text-align:center", >    
+    <img  src="images/containment.png" /> 
+</div>
+
+  [Day 22 of #66DaysOfData](day21)
+#### Lessons Learned
+
+- `Containment score` a plagiarism similarity measurement
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_22.png)
 
 
 
