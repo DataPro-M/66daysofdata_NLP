@@ -371,6 +371,7 @@ Getting started with `NLTK`.
 `Plagiarism-Detection` 
 
 `Containment score`: the n-gram similarity score
+
 <div style="text-align:center", >    
     <img  src="images/containment.png" /> 
 </div>
@@ -384,8 +385,7 @@ Getting started with `NLTK`.
 
 
 ![App Screenshot](images/Day_22.png)
-
-
+_**Note:** `heavy answers` are based on the source text, but heavily rephrased (and will likely be the most challenging kind of plagiarism to detect)._
 
 
 
