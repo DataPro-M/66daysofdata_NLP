@@ -385,6 +385,7 @@ Getting started with `NLTK`.
 
 
 ![App Screenshot](images/Day_22.png)
+
 _**Note:** `heavy answers` are based on the source text, but heavily rephrased (and will likely be the most challenging kind of plagiarism to detect)._
 
 
