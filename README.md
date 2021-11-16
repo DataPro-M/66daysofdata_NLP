@@ -351,7 +351,7 @@ Getting started with `NLTK`.
     <img  src="images/plagiarism.png" width='400px'/> 
 </div>
 
-  [Day 21 of #66DaysOfData](day21)
+  [Day 21 of #66DaysOfData](day21-24)
 #### Lessons Learned
 
 
@@ -374,7 +374,7 @@ Getting started with `NLTK`.
     <img  src="images/containment.png" /> 
 </div>
 
-  [Day 22 of #66DaysOfData](day21)
+  [Day 22 of #66DaysOfData](day21-24)
 #### Lessons Learned
 
 - `Containment score` a plagiarism similarity measurement
