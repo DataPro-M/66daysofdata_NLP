@@ -380,6 +380,7 @@ Getting started with `NLTK`.
 #### Lessons Learned
 
 - `Containment score` a plagiarism similarity measurement
+- 'CountVectorizer': Convert a collection of text documents to a matrix of token counts
 
 #### Screenshots
 
@@ -389,7 +390,25 @@ Getting started with `NLTK`.
 _**Note:** `heavy answers` are based on the source text, but heavily rephrased (and will likely be the most challenging kind of plagiarism to detect)._
 
 
+## Day 23 of #66DaysOfData
 
+`Plagiarism-Detection` 
+
+`Longest Common Subsequence`: a text similarity score
+
+<div style="text-align:center", >    
+    <img  src="images/common_subseq_words.png" width='400px' /> 
+</div>
+
+  [Day 23 of #66DaysOfData](day21-24)
+#### Lessons Learned
+
+- `Longest Common Subsequence` a plagiarism similarity measurement
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_23.png)
 
 
 
