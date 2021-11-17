@@ -399,8 +399,8 @@ _**Note:** `heavy answers` are based on the source text, but heavily rephrased (
   
 <img  src="images/common_subseq_words.png" width='400px' />    
 
-LCS is 20 characters long.
-Norm LCS is 20 divided by length of the student answer (27) =>  <mark>20/27</mark>, or <mark>0.7408</mark>
+_**image note**: `LCS` is 20 characters long.
+`Norm LCS` is 20 divided by length of the student answer (27) =>  20/27, or 0.7408_
 
 
 
