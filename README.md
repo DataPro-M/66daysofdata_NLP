@@ -396,14 +396,12 @@ _**Note:** `heavy answers` are based on the source text, but heavily rephrased (
 
 `Longest Common Subsequence`: a text similarity score
 
-<div style="text-align:center", >    
-    <img  src="images/common_subseq_words.png" width='400px' />
-    
-    <p id="text">
-        LCS is 20 characters long.
-        Norm LCS is 20 divided by length of the student answer (27) =>  <mark>20/27</mark>, or <mark>0.7408</mark>
-    </p>
-</div>
+  
+<img  src="images/common_subseq_words.png" width='400px' />    
+
+LCS is 20 characters long.
+Norm LCS is 20 divided by length of the student answer (27) =>  <mark>20/27</mark>, or <mark>0.7408</mark>
+
 
 
 
