@@ -415,6 +415,22 @@ _**image note**: `LCS` is 20 characters long.
 
 ![App Screenshot](images/Day_23.png)
 
+## Day 24 of #66DaysOfData
+
+`Plagiarism-Detection` 
+
+`Feature selection`
+  
+
+  [Day 24 of #66DaysOfData](day21-24)
+#### Lessons Learned
+
+- `Feature selectione` based on correlation matrix
+
+#### Screenshots
+
+![App Screenshot](images/Day_24.png)
+
 
 
 
