@@ -432,6 +432,21 @@ _**image note**: `LCS` is 20 characters long.
 ![App Screenshot](images/Day_24.png)
 
 
+## Day 25 of #66DaysOfData
+
+`Plagiarism-Detection` 
+
+`Binary Classification`
+  
+
+  [Day 25 of #66DaysOfData](day21-24)
+#### Lessons Learned
+
+- `Training and Plotting` multiple Classifiers
+
+#### Screenshots
+
+![App Screenshot](images/Day_25.png)
 
 
 
