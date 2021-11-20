@@ -351,7 +351,7 @@ Getting started with `NLTK`.
     <img  src="images/plagiarism.png" width='400px'/> 
 </div>
 
-  [Day 21 of #66DaysOfData](day21-24)
+  [Day 21 of #66DaysOfData](day21-26)
 #### Lessons Learned
 
 
@@ -376,7 +376,7 @@ Getting started with `NLTK`.
     <img  src="images/containment.png" /> 
 </div>
 
-  [Day 22 of #66DaysOfData](day21-24)
+  [Day 22 of #66DaysOfData](day21-26)
 #### Lessons Learned
 
 - `Containment score` a plagiarism similarity measurement
@@ -405,7 +405,7 @@ _**image note**: `LCS` is 20 characters long.
 
 
 
-  [Day 23 of #66DaysOfData](day21-24)
+  [Day 23 of #66DaysOfData](day21-26)
 #### Lessons Learned
 
 - `Longest Common Subsequence` a plagiarism similarity measurement
@@ -422,7 +422,7 @@ _**image note**: `LCS` is 20 characters long.
 `Feature selection`
   
 
-  [Day 24 of #66DaysOfData](day21-24)
+  [Day 24 of #66DaysOfData](day21-26)
 #### Lessons Learned
 
 - `Feature selectione` based on correlation matrix
@@ -439,14 +439,34 @@ _**image note**: `LCS` is 20 characters long.
 `Binary Classification`
   
 
-  [Day 25 of #66DaysOfData](day21-24)
+  [Day 25 of #66DaysOfData](day21-26)
 #### Lessons Learned
 
-- `Training and Plotting` multiple Classifiers
+- `Training sklearn` multiple Classifiers
 
 #### Screenshots
 
 ![App Screenshot](images/Day_25.png)
+
+## Day 26 of #66DaysOfData
+
+`Plagiarism-Detection` 
+
+`Multi-class Classification`
+  
+
+  [Day 26 of #66DaysOfData](day21-26)
+#### Lessons Learned
+
+- Training sklearn multiple multi-class Classifiers
+- plotting `decision boundary` with the aid of `mlxtend` library
+
+#### Screenshots
+
+![App Screenshot](images/Day_26_01.png)
+![App Screenshot](images/Day_26_02.png)
+![App Screenshot](images/Day_26_03.png)
+
 
 
 
