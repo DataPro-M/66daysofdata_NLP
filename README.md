@@ -346,7 +346,7 @@ Getting started with `NLTK`.
 
 ## Day 21 of #66DaysOfData
 
-`Plagiarism-Detection` 
+`Plagiarism-Detection` part_1 
 <div style="text-align:center", >    
     <img  src="images/plagiarism.png" width='400px'/> 
 </div>
@@ -368,7 +368,7 @@ Getting started with `NLTK`.
 
 ## Day 22 of #66DaysOfData
 
-`Plagiarism-Detection` 
+`Plagiarism-Detection` part_2
 
 `Containment score`: the n-gram similarity score
 
@@ -392,7 +392,7 @@ _**Note:** `heavy answers` are based on the source text, but heavily rephrased (
 
 ## Day 23 of #66DaysOfData
 
-`Plagiarism-Detection` 
+`Plagiarism-Detection` part_3 
 
 `Longest Common Subsequence`: a text similarity score
 
@@ -417,7 +417,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 24 of #66DaysOfData
 
-`Plagiarism-Detection` 
+`Plagiarism-Detection` part_4 
 
 `Feature selection`
   
@@ -434,7 +434,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 25 of #66DaysOfData
 
-`Plagiarism-Detection` 
+`Plagiarism-Detection` part_5 
 
 `Binary Classification`
   
@@ -450,7 +450,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 26 of #66DaysOfData
 
-`Plagiarism-Detection` 
+`Plagiarism-Detection` part_6 
 
 `Multi-class Classification`
   
