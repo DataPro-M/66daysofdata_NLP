@@ -131,6 +131,9 @@ dmypy.json
 # .virtual_documents/
 .virtual_documents/
 
+
+
 # ignore directories
 other_data/
 datasets/
+models/

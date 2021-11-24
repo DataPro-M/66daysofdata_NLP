@@ -468,6 +468,44 @@ _**image note**: `LCS` is 20 characters long.
 ![App Screenshot](images/Day_26_03.png)
 
 
+## Day 27 of #66DaysOfData
+
+`Plagiarism detector app` part_1
+
+  [Day 27 of #66DaysOfData](day27-28)
+  
+#### Lessons Learned
+
+- [Kaggle: dataset of news articles ](https://www.kaggle.com/snapcrack/all-the-news) 
+- SentenceTransformer --> Models of Average Word Embeddings
+- encoding the dataset with 'average_word_embeddings_komninos' transformer model
+
+#### Screenshots
+
+![image.png](https://i.imgur.com/QDPtuEv.png)
+<a href="https://i.imgur.com/QDPtuEv.png">source</a>
+![App Screenshot](images/Day_27.png)
+
+## Day 28 of #66DaysOfData
+
+`Plagiarism detector app` part_2  
+
+  [Day 28 of #66DaysOfData](day27-28)
+  
+#### Lessons Learned
+
+- Pinecone: A similarity search service — to find possibly plagiarized content
+- creating a Pinecoine account as well as getting Api Keys
+- create Pinecone index and 'upsert' the data
+- running a query and matching the result
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_28.png)
+
+
+
 
 
 
