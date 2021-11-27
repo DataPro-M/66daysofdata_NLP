@@ -5,32 +5,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Plagiarism Checker</title>
-  <meta name="description" content="A machine learning app built with Python, Flask, and the Pinecone SDK.">
-  <meta name="author" content="Tyler Hawkins">
-
-  <meta property="og:title" content="Plagiarism Checker">
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="A machine learning app built with Python, Flask, and the Pinecone SDK.">
+  <title>Article finder</title>  
 
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
 <body>
-  <h1>Plagiarism Tester</h1>
+  <h1>Find articles with same content</h1>
  
 
   <form id="plagiarismCheckerForm">
-    <label id="articleContentLabel" for="originalContent">Please paste your content here to check for plagiarism!</label>
+    <label id="articleContentLabel" for="originalContent">Please paste your content here to check for article with same content!</label>
     <textarea id="articleContentInput" name="originalContent"></textarea>
     <div><button type="submit" id="submitButton">Submit</button></div>
   </form>
 
   <div id="resultsContainer" style="display: none;">
     <h2>Similar Articles</h2>
-    <div id="similaritySensitivityContainer">
-      <label for="sensitivity">Similarity Sensitivity: <span id="sensitivityPercentage">90</span>%</label>
-      <input type="range" id="sensitivity" name="sensitivity" min="0" max="100" value="90">
+    <div id="similaritySensitivityContainer" type="hidden">
+      
+      <input type="hidden" id="sensitivity" name="sensitivity" min="0" max="100" value="10">
     </div>
     <table>
       <thead>
