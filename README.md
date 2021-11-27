@@ -472,7 +472,7 @@ _**image note**: `LCS` is 20 characters long.
 
 `Plagiarism detector app` part_1
 
-  [Day 27 of #66DaysOfData](day27-28)
+  [Day 27 of #66DaysOfData](day27-29)
   
 #### Lessons Learned
 
@@ -490,7 +490,7 @@ _**image note**: `LCS` is 20 characters long.
 
 `Plagiarism detector app` part_2  
 
-  [Day 28 of #66DaysOfData](day27-28)
+  [Day 28 of #66DaysOfData](day27-29)
   
 #### Lessons Learned
 
@@ -503,6 +503,22 @@ _**image note**: `LCS` is 20 characters long.
 
 
 ![App Screenshot](images/Day_28.png)
+
+## Day 29 of #66DaysOfData
+
+`Plagiarism detector app` part_2  
+
+  [Day 28 of #66DaysOfData](day27-29)
+  
+#### Lessons Learned
+
+- Flask web app
+- running a query and matching the result
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_29.gif)
 
 
 
