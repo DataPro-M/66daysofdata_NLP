@@ -470,7 +470,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 27 of #66DaysOfData
 
-`Find articles with same content` part_1
+`Article finder app` part_1
 
   [Day 27 of #66DaysOfData](day27-29)
   
@@ -488,7 +488,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 28 of #66DaysOfData
 
-`Find articles with same content` part_2  
+`Article finder app` part_2  
 
   [Day 28 of #66DaysOfData](day27-29)
   
@@ -506,7 +506,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 29 of #66DaysOfData
 
-`Find articles with same content` part_3  
+`Article finder app` part_3  
 
   [Day 28 of #66DaysOfData](day27-29)
   
