@@ -506,7 +506,7 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 29 of #66DaysOfData
 
-`Plagiarism detector app` part_2  
+`Plagiarism detector app` part_3  
 
   [Day 28 of #66DaysOfData](day27-29)
   
