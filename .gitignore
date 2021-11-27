@@ -137,3 +137,5 @@ dmypy.json
 other_data/
 datasets/
 models/
+
+kite_tutorial.ipynb
