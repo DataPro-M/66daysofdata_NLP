@@ -540,10 +540,10 @@ _**image note**: `LCS` is 20 characters long.
 
 ![App Screenshot](images/Day_30_1.png)
 
-* paraphrases detection with:
+paraphrases detection with:
+
     - AutoTokenizer
-    - AutoModelForSequenceClassification
-        
+    - AutoModelForSequenceClassification        
 ![App Screenshot](images/Day_30_2.png)
 
 
