@@ -520,6 +520,33 @@ _**image note**: `LCS` is 20 characters long.
 
 ![App Screenshot](images/Day_29.gif)
 
+## Day 30 of #66DaysOfData
+
+`Hugging Face` part_1  
+
+  [Day 28 of #66DaysOfData](day27-29)
+  
+#### Lessons Learned
+- Hugging Face: getting start
+- transformers: The Warmup Guide
+- Sequence Classification:
+    - Sentiment-Analysis with transformers pipeline
+    - paraphrases detection with:
+        - AutoTokenizer
+        - AutoModelForSequenceClassification
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_30_1.png)
+
+* paraphrases detection with:
+    - AutoTokenizer
+    - AutoModelForSequenceClassification
+        
+![App Screenshot](images/Day_30_2.png)
+
+
 
 
 
