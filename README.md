@@ -523,6 +523,7 @@ _**image note**: `LCS` is 20 characters long.
 ## Day 30 of #66DaysOfData
 
 `Hugging Face` part_1  
+![image.png](https://venturebeat.com/wp-content/uploads/2019/09/hugging-face.png?w=750&strip=all)<a href="https://venturebeat.com/2019/09/26/hugging-face-launches-popular-transformers-nlp-library-for-tensorflow/">source</a>
 
   [Day 30 of #66DaysOfData](day30)
   
