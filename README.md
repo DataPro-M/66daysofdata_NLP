@@ -524,7 +524,7 @@ _**image note**: `LCS` is 20 characters long.
 
 `Hugging Face` part_1  
 
-  [Day 28 of #66DaysOfData](day27-29)
+  [Day 30 of #66DaysOfData](day30)
   
 #### Lessons Learned
 - Hugging Face: getting start
