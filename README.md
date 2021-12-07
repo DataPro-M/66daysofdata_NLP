@@ -522,8 +522,8 @@ _**image note**: `LCS` is 20 characters long.
 
 ## Day 30 of #66DaysOfData
 
-`Hugging Face` part_1  
-![image.png](https://venturebeat.com/wp-content/uploads/2019/09/hugging-face.png?w=750&strip=all)<a href="https://venturebeat.com/2019/09/26/hugging-face-launches-popular-transformers-nlp-library-for-tensorflow/">source</a>
+`Hugging Face` transformers part_1  
+![image.png](https://venturebeat.com/wp-content/uploads/2019/09/hugging-face.png?w=750&strip=all)<a href="https://venturebeat.com/2019/09/26/hugging-face-launches-popular-transformers-nlp-library-for-tensorflow/">img source</a>
 
   [Day 30 of #66DaysOfData](day30)
   
@@ -546,6 +546,29 @@ paraphrases detection with:
     - AutoTokenizer
     - AutoModelForSequenceClassification        
 ![App Screenshot](images/Day_30_2.png)
+
+## Day 31 of #66DaysOfData
+
+`Hugging Face` transformers part_2 
+
+  [Day 31 of #66DaysOfData](day30)
+  
+#### Lessons Learned
+- Extractive Question Answering with transformers pipeline
+- Extractive Question Answering using a model and a tokenizer:
+    - AutoTokenizer
+    - AutoModelForQuestionAnswering
+
+#### Screenshots
+
+
+![App Screenshot](images/Day_31_1.png)
+
+Extractive Question Answering using:
+
+    - AutoTokenizer
+    - AutoModelForSequenceClassification        
+![App Screenshot](images/Day_31_2.png)
 
 
 
