@@ -567,7 +567,7 @@ paraphrases detection with:
 Extractive Question Answering using:
 
     - AutoTokenizer
-    - AutoModelForSequenceClassification        
+    - AutoModelForQuestionAnswering        
 ![App Screenshot](images/Day_31_2.png)
 
 
