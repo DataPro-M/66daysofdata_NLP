@@ -525,7 +525,7 @@ _**image note**: `LCS` is 20 characters long.
 `Hugging Face` transformers part_1  
 ![image.png](https://venturebeat.com/wp-content/uploads/2019/09/hugging-face.png?w=750&strip=all)<a href="https://venturebeat.com/2019/09/26/hugging-face-launches-popular-transformers-nlp-library-for-tensorflow/">img source</a>
 
-  [Day 30 of #66DaysOfData](day30)
+  [Day 30 of #66DaysOfData](day30-37)
   
 #### Lessons Learned
 - Hugging Face: getting start
@@ -551,7 +551,7 @@ paraphrases detection with:
 
 `Hugging Face` transformers part_2 
 
-  [Day 31 of #66DaysOfData](day30)
+  [Day 31 of #66DaysOfData](day30-37)
   
 #### Lessons Learned
 - Extractive Question Answering with transformers pipeline
